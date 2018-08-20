@@ -7,7 +7,6 @@ import './index.css';
 import registerServiceWorker from './registerServiceWorker';
 import init from './redux-form/reducer';
 
-// import SimpleForm from './App';
 
 //redux-form 的简单示例
 // import Simple from './redux-form/simple'
